@@ -73,6 +73,7 @@ de:
     users:
       all_users: "Alle Benutzerinnen"
       new_user: "Neue Benutzerin"
+      edit_user: "Benutzerin bearbiten"
       newest_users: "Neuste benutzerinnen"
       username: "Benutzername"  
       name: "Name"
